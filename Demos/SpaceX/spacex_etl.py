@@ -1,7 +1,7 @@
 
 import requests
 import pandas as pd
-from db_connection_psycopg2 import get_db_connection
+from Demos.SpaceX.db_connection_psycopg2 import get_db_connection
 import psycopg2
 from psycopg2 import sql
 
